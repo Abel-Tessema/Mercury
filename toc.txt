@@ -1,1 +1,8 @@
+* TABLE OF CONTENT
+
+Creating Snapshots
+  - Initializing a repository
+  - Staging changesbugfix
+Table of Contents
+Contents Table
 Table of Contents
